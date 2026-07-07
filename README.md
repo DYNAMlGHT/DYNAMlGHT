@@ -5,7 +5,7 @@
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Viaoda+Libre&duration=6000&pause=200&color=737373&width=435&lines=%2C%2C+can+i+still+catch+up+to+you%3F+%E2%9D%9C)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="600" height="260" src="https://files.catbox.moe/ufsup8.jpg">
+  <img width="600" height="260" src="https://files.catbox.moe/5dugvw.gif">
 </p>
 
 &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [rentry](https://rentry.co/mizaiz) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [pronouns](https://pronouns.cc/@cheriecrush) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [strawpage](https://mizai.straw.page)
