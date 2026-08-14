@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" height="150" src="https://cdn.discordapp.com/attachments/805551315400654889/1537914110770155631/image.png?ex=6a80c5a1&is=6a7f7421&hm=3358b4c0b65d59e069ed6d7694803b02069b665bb7c3b5b93aa494a9d4c73899&">
+  <img width="343" height="50" src="https://cdn.discordapp.com/attachments/805551315400654889/1537914110770155631/image.png?ex=6a80c5a1&is=6a7f7421&hm=3358b4c0b65d59e069ed6d7694803b02069b665bb7c3b5b93aa494a9d4c73899&">
 </p>
 
 <p align="center">
